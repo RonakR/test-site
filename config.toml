@@ -1,0 +1,11 @@
+siteTitle = "Blog by Ronak Raithatha"
+siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+siteAuthor = "Ronak Raithatha"
+
+siteTwitterUrl = "#"
+siteGithubUrl = "#"
+siteEmailUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
